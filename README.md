@@ -1,8 +1,9 @@
 # Tweets-Sentiment-Analysis
 
-This project focuses on performing sentiment analysis using the Sentiment140 dataset from Kaggle. The dataset contains 1.6 million tweets that have been labeled with sentiment (0 for negative and 1 for positive) and have been retrieved using Twitter API.
+This project focuses on performing sentiment analysis on a dataset of 1.6 million tweets that have been labeled with sentiment (0 for negative and 1 for positive) and retrieved using Twitter API.
 
 **Link:** https://www.kaggle.com/datasets/kazanova/sentiment140
+
 **Dataset Name:** training.1600000.processed.noemoticon.csv
 
 ## Project Overview
